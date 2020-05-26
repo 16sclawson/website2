@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background: url("images/city.jpg");
+  height: 100vh;
+  color: white;
+  font-family: Monospace;
+}
